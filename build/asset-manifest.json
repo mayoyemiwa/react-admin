@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e2cb0265.css",
+    "main.js": "/static/js/main.e48ae5d1.js",
+    "static/media/Mayoyemiwa.png": "/static/media/Mayoyemiwa.11495b95d3686506a047.png",
+    "static/media/myLogo.png": "/static/media/myLogo.c642da57099f07afdd42.png",
+    "index.html": "/index.html",
+    "main.e2cb0265.css.map": "/static/css/main.e2cb0265.css.map",
+    "main.e48ae5d1.js.map": "/static/js/main.e48ae5d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2cb0265.css",
+    "static/js/main.e48ae5d1.js"
+  ]
+}
