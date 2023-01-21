@@ -11,14 +11,17 @@ html, body, #root, .app, .content{
   display: flex;
   position:relative;
 }
+.content{
+  overflow-y: scroll;
+}
 
-::-webkit-scrollbar{
+::-webkit-scrollbar {
   width: 10px;
 }
 /*  Track  */
-/* /* ::-webkit-scrollbar-track{
+ ::-webkit-scrollbar-track{
   background: #e0e0e0;
-} */
+}
 /*  Handle  */
 ::-webkit-slider-thumb{
   background: #888;
